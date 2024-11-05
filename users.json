@@ -1,0 +1,65 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": { "title": "Mrs", "first": "Jenny", "last": "Morrison" },
+            "location": {
+                "street": { "number": 5783, "name": "Oaks Cross" },
+                "city": "Edinburgh",
+                "state": "Lancashire",
+                "country": "United Kingdom"
+            },
+            "cell": "0779-065-409",
+            "picture": { "large": "https://randomuser.me/api/portraits/women/37.jpg" }
+        },
+        {
+            "gender": "male",
+            "name": { "title": "Mr", "first": "John", "last": "Doe" },
+            "location": {
+                "street": { "number": 23, "name": "King Street" },
+                "city": "London",
+                "state": "Greater London",
+                "country": "United Kingdom"
+            },
+            "cell": "0745-123-456",
+            "picture": { "large": "https://randomuser.me/api/portraits/men/1.jpg" }
+        },
+        {
+            "gender": "female",
+            "name": { "title": "Ms", "first": "Alice", "last": "Johnson" },
+            "location": {
+                "street": { "number": 145, "name": "Baker Street" },
+                "city": "Manchester",
+                "state": "Greater Manchester",
+                "country": "United Kingdom"
+            },
+            "cell": "0763-789-012",
+            "picture": { "large": "https://randomuser.me/api/portraits/women/10.jpg" }
+        },
+        {
+            "gender": "male",
+            "name": { "title": "Mr", "first": "Michael", "last": "Smith" },
+            "location": {
+                "street": { "number": 32, "name": "Queen Street" },
+                "city": "Bristol",
+                "state": "Bristol",
+                "country": "United Kingdom"
+            },
+            "cell": "0784-567-890",
+            "picture": { "large": "https://randomuser.me/api/portraits/men/45.jpg" }
+        },
+        {
+            "gender": "female",
+            "name": { "title": "Ms", "first": "Emily", "last": "Davis" },
+            "location": {
+                "street": { "number": 17, "name": "High Street" },
+                "city": "Cardiff",
+                "state": "Wales",
+                "country": "United Kingdom"
+            },
+            "cell": "0791-234-567",
+            "picture": { "large": "https://randomuser.me/api/portraits/women/15.jpg" }
+        }
+    ],
+    "info": { "seed": "example", "results": 5, "page": 1, "version": "1.3" }
+}
